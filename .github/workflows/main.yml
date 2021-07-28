@@ -1,4 +1,4 @@
-name: CI
+name: Image Build with ECR
 'on':
   push:
     branches:
