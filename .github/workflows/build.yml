@@ -5,7 +5,7 @@ name: Build
       - master
   pull_request:
     branches:
-      - master
+      - dev
   workflow_dispatch: null
 jobs:
   build:
